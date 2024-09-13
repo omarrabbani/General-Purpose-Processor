@@ -14,6 +14,6 @@ FSM: The FSM is used to establish the process of an up counter in this lab. When
 
 Seven Segment Display: This 7-segment display converts binary input from the ALU to usable programming for the seven-segment display. SSD's were utilized to observe the resulting hexadecimal output (0-15), as well as a negative bit instance of the seven segment in case of negative output when subtraction is performed.
 
-![Func](https://github.com/user-attachments/assets/f975b406-7c4c-4428-9f90-dfe746145fb7)
+![Func](https://github.com/user-attachments/assets/ebe2bbc1-c3b8-4c47-a9c3-1ba45db0d721)
 
 Table of all 9 ALU functions used, with their corresponding outputs shown in hexadecimal output.
